@@ -665,6 +665,7 @@ tr, td{
 .logo_container h4 {
     background-color: #F94A3D;
     width: 25px;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
